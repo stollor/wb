@@ -1,0 +1,69 @@
+
+pl4-8_p13.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/pl4_8_h13_shui_1-1
+  rotate: true
+  xy: 742, 213
+  size: 115, 208
+  orig: 115, 208
+  offset: 0, 0
+  index: -1
+images/pl4_8_h13_shui_4-1
+  rotate: false
+  xy: 742, 330
+  size: 177, 162
+  orig: 177, 162
+  offset: 0, 0
+  index: -1
+images/pl4_8_h13_shui_4pic
+  rotate: false
+  xy: 494, 263
+  size: 246, 229
+  orig: 246, 229
+  offset: 0, 0
+  index: -1
+images/pl4_8_h13_shui_bh_1
+  rotate: true
+  xy: 494, 34
+  size: 44, 181
+  orig: 44, 181
+  offset: 0, 0
+  index: -1
+images/pl4_8_h13_shui_bh_2
+  rotate: false
+  xy: 694, 111
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+images/pl4_8_h13_shui_bh_3
+  rotate: false
+  xy: 771, 156
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+images/pl4_8_h13_shui_bh_4
+  rotate: true
+  xy: 921, 383
+  size: 109, 74
+  orig: 109, 74
+  offset: 0, 0
+  index: -1
+images/pl4_8_h13_shuii_hui
+  rotate: false
+  xy: 494, 80
+  size: 198, 181
+  orig: 198, 181
+  offset: 0, 0
+  index: -1
+images/pl4_8_p13_bg
+  rotate: false
+  xy: 2, 2
+  size: 490, 490
+  orig: 490, 490
+  offset: 0, 0
+  index: -1

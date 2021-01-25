@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "985fd608-ee05-4275-9be7-1f46ba413ca9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "p4-大画家": {
+      "ver": "1.0.3",
+      "uuid": "f26c5f7e-373b-4d18-a6c8-7813fbb2920a",
+      "rawTextureUuid": "985fd608-ee05-4275-9be7-1f46ba413ca9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1960,
+      "height": 1960,
+      "rawWidth": 1960,
+      "rawHeight": 1960,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

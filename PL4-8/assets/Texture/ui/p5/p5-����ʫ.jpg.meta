@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d0fd5933-1ea9-46e7-a50a-5fde9938117d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "p5-读古诗": {
+      "ver": "1.0.3",
+      "uuid": "dc351d28-7cba-4d67-b90b-284cc84ebe2e",
+      "rawTextureUuid": "d0fd5933-1ea9-46e7-a50a-5fde9938117d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1960,
+      "height": 1960,
+      "rawWidth": 1960,
+      "rawHeight": 1960,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
